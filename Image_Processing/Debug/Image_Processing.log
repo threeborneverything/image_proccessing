@@ -1,0 +1,33 @@
+﻿生成启动时间为 2020/1/10 22:43:52。
+     1>项目“D:\DigitImage\Image_Processing\Image_Processing\Image_Processing.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Image_Processing.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Image_ProcessingView.cpp
+         Image_ProcessingView.cpp
+     1>d:\digitimage\image_processing\image_processing\resource.h(35): warning C4005: “IDCANCEL”: 宏重定义
+                 c:\program files (x86)\windows kits\8.1\include\um\winuser.h(10563) : 参见“IDCANCEL”的前一个定义
+     1>d:\digitimage\image_processing\image_processing\image_processingview.cpp(756): warning C4101: “y”: 未引用的局部变量
+     1>d:\digitimage\image_processing\image_processing\image_processingview.cpp(756): warning C4101: “x”: 未引用的局部变量
+     1>d:\digitimage\image_processing\image_processing\image_processingview.cpp(789): warning C4101: “y”: 未引用的局部变量
+     1>d:\digitimage\image_processing\image_processing\image_processingview.cpp(789): warning C4101: “x”: 未引用的局部变量
+     1>d:\digitimage\image_processing\image_processing\image_processingview.cpp(1028): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>d:\digitimage\image_processing\image_processing\image_processingview.cpp(1128): warning C4101: “j”: 未引用的局部变量
+     1>d:\digitimage\image_processing\image_processing\image_processingview.cpp(1273): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>d:\digitimage\image_processing\image_processing\image_processingview.cpp(1401): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>d:\digitimage\image_processing\image_processing\image_processingview.cpp(1441): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+     1>d:\digitimage\image_processing\image_processing\image_processingview.cpp(1482): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+       Link:
+         D:\Program Files (x86)\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\DigitImage\Image_Processing\Debug\Image_Processing.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\vs\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\DigitImage\Image_Processing\Debug\Image_Processing.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\DigitImage\Image_Processing\Debug\Image_Processing.lib" /MACHINE:X86 Debug\Image_Processing.res
+         Debug\EditDlg.obj
+         Debug\ImageZFTDlg.obj
+         Debug\Image_Processing.obj
+         Debug\Image_ProcessingDoc.obj
+         Debug\Image_ProcessingView.obj
+         Debug\MainFrm.obj
+         Debug\MyImage_.obj
+         Debug\stdafx.obj
+         Image_Processing.vcxproj -> D:\DigitImage\Image_Processing\Debug\Image_Processing.exe
+     1>已完成生成项目“D:\DigitImage\Image_Processing\Image_Processing\Image_Processing.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:41.38
